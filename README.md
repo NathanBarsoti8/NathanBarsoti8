@@ -8,7 +8,7 @@
 - Software Developer :computer:
 - Brazillian
 - Dog lover 🐶
-- Passionate for Formula 1
+- Passionate for Formula 1 🏎️
 
 ## :triangular_flag_on_post: Technical skills
 

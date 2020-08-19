@@ -8,7 +8,7 @@
 - Software Developer :computer:
 - Brazillian
 - Dog lover 🐶
-- As a child I wanted to be a Formula 1 driver
+- Passionate for Formula 1
 
 ## :triangular_flag_on_post: Technical skills
 
